@@ -42,6 +42,13 @@ Certifique-se de criar filtros e oferecer a melhor experiência ao usuário. Lem
 - `cliente_Log`: Identificação do cliente.
 - `Idade`: Idade do cliente.
 - `uf_nascimento`: Cidade de nascimento do cliente.
+- 
+## Ferramentas e Sistemas Utilizados
+
+- [Power BI](https://powerbi.microsoft.com/): Utilizado para criar visualizações de dados e relatórios.
+- [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel): Empregado para pré-processamento e análise de dados.
+- [Jupyter Notebook](https://jupyter.org/): Utilizado para exploração e análise de dados com Python.
+- [SQL Server](https://www.microsoft.com/en-us/sql-server): Sistema de banco de dados usado para armazenamento e recuperação de dados.
 
 ## Contribuição
 
